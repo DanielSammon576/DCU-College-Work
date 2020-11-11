@@ -1,0 +1,4 @@
+some-file.py              # Create a backup named some-file.py.bak.
+some-other-file.txt       # Create a backup named some-other-file.txt.bak.
+yet-another-file.bak      # Do not create a backup of this file.
+some-directory            # Do not create a backup of this directory.
